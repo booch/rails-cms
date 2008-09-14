@@ -15,12 +15,12 @@ test:
 
 staging:
   adapter: mysql
-  database: rails-base_staging
+  database: rails-cms_staging
   username: root
   password:
 
 production:
   adapter: mysql
-  database: rails-base_production
+  database: rails-cms_production
   username: root
   password:

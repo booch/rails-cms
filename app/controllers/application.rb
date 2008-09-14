@@ -15,5 +15,5 @@ class ApplicationController < ActionController::Base
   helper :all # include all helpers, all the time
 
   # See ActionController::RequestForgeryProtection for details
-  protect_from_forgery :secret => 'df75966b128861272820fe14e0d1c509'
+  protect_from_forgery :secret => '968e0f875a2ca4a2d9532600f3d38888'
 end
